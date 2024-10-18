@@ -409,15 +409,15 @@ Autoscaling
 ECS / EKS / Fargate
 
 JD 39
- Design, develop and implement hybrid cloud environments
- Deploy and automate infrastructure & platform services in Public Clouds (AWS, GCP, and Azure) using Terraform and Ansible
- Design and manage Continuous deployment using Kubernetes and Jenkins
- Design, implement and execute Backup and Recovery and Business Continuity processes
- Design, implement and execute industry standard security processes for best practices and compliance (SOC2, ISO27001, Fedramp, HIPPA etc) leveraging services in Public Cloud such as AWS GuardDuty, Web Application Firewall and Cloudtrail.
- Monitor environments for security vulnerabilities and take actions to remediate and/or mitigate risks
- Monitor applications and services within the environments, on-call rotation using Datadog, Elastic Search, and Opsgenie, take actions to resolve issues and implement strategies to prevent future occurrences
- Perform troubleshooting and root cause analysis for Service Incidents using Jira Service Desk and the alerting and monitoring tools documented above
- Set up intelligent application performance alerts in Datadog and ElasticSearch to find and fix issues before they impact business services and end-users
+Design, develop and implement hybrid cloud environments
+Deploy and automate infrastructure & platform services in Public Clouds (AWS, GCP, and Azure) using Terraform and Ansible
+Design and manage Continuous deployment using Kubernetes and Jenkins
+Design, implement and execute Backup and Recovery and Business Continuity processes
+Design, implement and execute industry standard security processes for best practices and compliance (SOC2, ISO27001, Fedramp, HIPPA etc) leveraging services in Public Cloud such as AWS GuardDuty, Web Application Firewall and Cloudtrail.
+Monitor environments for security vulnerabilities and take actions to remediate and/or mitigate risks
+Monitor applications and services within the environments, on-call rotation using Datadog, Elastic Search, and Opsgenie, take actions to resolve issues and implement strategies to prevent future occurrences
+Perform troubleshooting and root cause analysis for Service Incidents using Jira Service Desk and the alerting and monitoring tools documented above
+Set up intelligent application performance alerts in Datadog and ElasticSearch to find and fix issues before they impact business services and end-users
 
 JD 40
 
@@ -457,13 +457,13 @@ Knowledge of relevant libraries and security protocols
 Work with DevOps teams to set-up and maintain CI/CD pipelines to support the Data Warehouse and bring in new feature enhancement
 
 JD 42
- Manage AWS EC2, networking, and alerting.
- Maintain monitoring, alerting, and incident response processes.
- Scale infrastructure to handle high traffic and RPM.
- Develop dashboards for system health and performance.
- Optimize cloud costs and support data warehousing (Athena) as needed.
- Implement observability strategies and manage APM tools.
- Collaborate on CI/CD processes and Kubernetes integration.
+Manage AWS EC2, networking, and alerting.
+Maintain monitoring, alerting, and incident response processes.
+Scale infrastructure to handle high traffic and RPM.
+Develop dashboards for system health and performance.
+Optimize cloud costs and support data warehousing (Athena) as needed.
+Implement observability strategies and manage APM tools.
+Collaborate on CI/CD processes and Kubernetes integration.
 
 JD 43
 Advanced knowledge of and comprehensive experience in deploying and managing:
@@ -509,14 +509,14 @@ Experience in SAP applications running on SAP-supported databases within cloud i
 Professional level fluency in both written and verbal English language.
 
 JD 47
- Design, develop, and maintain scalable cloud infrastructures in public clouds like Azure, AWS, GCP. 
- Deploy, manage, and troubleshoot containerized applications using Kubernetes. 
- Design and optimize PostgreSQL databases for high performance, reliability, and scalability. 
- Implement Elasticsearch clusters for processing large scale data processing 
- Monitor cloud systems and address any scaling and performance issues proactively. 
- Collaborate with cross-functional teams to architect and improve system performance and capacity. 
- Develop solutions for disaster recovery, high availability, Resiliency and data redundancy. 
- Apply best practices in security, governance, and compliance for cloud environments. 
+Design, develop, and maintain scalable cloud infrastructures in public clouds like Azure, AWS, GCP. 
+Deploy, manage, and troubleshoot containerized applications using Kubernetes. 
+Design and optimize PostgreSQL databases for high performance, reliability, and scalability. 
+Implement Elasticsearch clusters for processing large scale data processing 
+Monitor cloud systems and address any scaling and performance issues proactively. 
+Collaborate with cross-functional teams to architect and improve system performance and capacity. 
+Develop solutions for disaster recovery, high availability, Resiliency and data redundancy. 
+Apply best practices in security, governance, and compliance for cloud environments. 
 
 JD 48
 Set up and configure Azure and AWS infrastructure for seamless application deployment.
@@ -534,16 +534,16 @@ AWS IoT, AWS SNS, AWS SQS, RDS
 AWS EC2, ECS, ELB, Route53
 AWS Cognito
 AWS CloudFormation
- Must have a good understanding of computer networking fundamentals.
- Must understand security concepts and frameworks, as well as authentication and authorization frameworks.
- Good understanding of managing AWS users, roles, and policies.
- Experience in working on the Linux platform.
- Experience working on Docker containers. Knowledge of Kubernetes is desirable.
- Familiar with REST APIs, JSON/XML data formats, Web frameworks, Reverse Proxies, and Caching.
- Good software development practices, use of version control, and issue tracking.
- Experience in CI/CD pipelines.
- Good programming skills in Python/NodeJS are desirable.
- Good knowledge of test frameworks for Python/NodeJS and web applications is desirable.
+Must have a good understanding of computer networking fundamentals.
+Must understand security concepts and frameworks, as well as authentication and authorization frameworks.
+Good understanding of managing AWS users, roles, and policies.
+Experience in working on the Linux platform.
+Experience working on Docker containers. Knowledge of Kubernetes is desirable.
+Familiar with REST APIs, JSON/XML data formats, Web frameworks, Reverse Proxies, and Caching.
+Good software development practices, use of version control, and issue tracking.
+Experience in CI/CD pipelines.
+Good programming skills in Python/NodeJS are desirable.
+Good knowledge of test frameworks for Python/NodeJS and web applications is desirable.
 
 JD 50
 Experience in Modernizing applications to Container based platform using EKS, ECS, Fargate
@@ -585,4 +585,15 @@ Worked with source control like Git
 Understanding of CI/CD, rapid delivery on production
 Experience with one of the cloud platform like AWS, Azure etc. 
 Understanding different Agile methodologies
-Ability to write quality unit and end–to–end tests; debug and optimize existing and new code. 
+Ability to write quality unit and end–to–end tests; debug and optimize existing and new code.
+
+JD 54
+Leads the building of various opinionated cloud environments and platforms while aligning them with business and security strategies and requirements.
+Builds standards, designs, and automates the deployment of software in cloud environments.
+Designs and develops solutions that protect and manage cloud native apps and data.
+Contributes to technology strategy and engineering roadmaps around cloud platforms; execute strategic engineering proof of concepts around cloud platforms.
+Partners with DevOps to develop tooling and infrastructure for cloud development and cloud operations use cases, with a focus on microservices deployment and distributed systems monitoring and fault analysis.
+Executes job using Test Driven Development (TDD) approach, and supports continuous integration and continuous deployment patterns.
+Confers with systems engineers to design and to obtain information on project limitations and capabilities, performance requirements and interfaces.
+Delivers best practices recommendations, tutorials, blog articles, and technical presentations adapting to different levels of key business and technical stakeholders.
+Applies advanced subject matter knowledge, leads complex projects, and exercises independent judgment in resolving business issues and establishing policies.
