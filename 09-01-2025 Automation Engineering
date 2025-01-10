@@ -279,3 +279,264 @@ Familiarity with CI/CD tools and practices (e.g., Jenkins, GitLab CI/CD).
 Experience with testing frameworks and tools such as Selenium, PyTest, JUnit, etc. 
 Knowledge of version control systems like Git. 
 Strong analytical and problem-solving skills. 
+
+JD 25
+Expertise in Python or JavaScript for automation.
+Hands-on experience with Selenium WebDriver for web testing.
+Familiarity with CI/CD pipelines (e.g., Jenkins, GitHub Actions).
+Strong API testing skills using Postman or RestAssured.
+Knowledge of SQL for database validation during testing.
+Experience with Agile methodologies and tools like Jira.
+
+JD 26
+4+ years of experience in automation testing for mobile and web applications.
+Proficiency in mobile automation tools such as Appium or Espresso.
+Strong programming skills in Java or Kotlin.
+Familiarity with cloud-based testing platforms like BrowserStack.
+Experience in integrating test frameworks with CI/CD pipelines.
+Knowledge of performance testing tools (e.g., JMeter, LoadRunner).
+
+JD 27
+Experience in writing automation scripts using Python or Ruby.
+Proficiency in Behavior-Driven Development (BDD) frameworks like Cucumber or SpecFlow.
+Solid understanding of Git for version control.
+Hands-on expertise in API automation and validation.
+Exposure to Docker and containerization for test environments.
+
+JD 28
+At least 5 years of QA experience, with 3+ years in automation testing.
+Proficiency with tools like Selenium, Cypress, and Playwright.
+Experience with automation frameworks based on JavaScript.
+Knowledge of TestNG or JUnit for unit testing.
+Familiarity with cloud platforms (AWS, Azure) for automation setups.
+
+JD 29
+Bachelor's degree in Computer Science or a related field.
+Expertise in using tools like UFT (Unified Functional Testing) or TestComplete.
+Experience in scripting languages such as VBScript or JavaScript.
+Knowledge of database testing with Oracle or MySQL.
+Strong analytical and problem-solving skills.
+
+JD 30
+6+ years of experience in QA and automation testing.
+Expertise in using Java and Selenium for test automation.
+Familiarity with Agile and DevOps practices.
+Experience with cloud-native application testing (e.g., Kubernetes, Docker).
+Strong debugging skills to identify issues in complex environments.
+
+JD 31
+Strong proficiency in Python and Robot Framework for automation.
+Hands-on experience with tools like Selenium, Appium, and TestCafe.
+Familiarity with version control systems such as Git and GitLab.
+Experience with Jenkins for continuous integration and test orchestration.
+Exposure to Kafka and RabbitMQ for messaging queue testing.
+
+JD 32
+Expertise in load and performance testing using JMeter or BlazeMeter.
+Experience with Splunk or Grafana for monitoring and analyzing logs.
+Familiarity with container orchestration tools like Kubernetes.
+Strong scripting skills in PowerShell or Bash for automation.
+Knowledge of tools like SoapUI or Postman for API automation.
+
+JD 33
+Proficiency in Java and REST-assured for backend testing.
+Experience with Cypress or Puppeteer for end-to-end testing.
+Knowledge of QA tools like TestRail or Zephyr for test management.
+Exposure to Terraform for infrastructure automation.
+Familiarity with Azure DevOps for CI/CD pipelines.
+
+JD 34
+Advanced knowledge of Selenium Grid for distributed testing.
+Hands-on experience with Katalon Studio or Ranorex.
+Proficiency in SQL queries for database validations during automation.
+Familiarity with ELK Stack (Elasticsearch, Logstash, Kibana) for test monitoring.
+Experience with BDD tools like SpecFlow and integration with Azure Pipelines.
+
+JD 35
+Strong understanding of OpenShift and Docker Compose for containerized testing.
+Experience in scriptless automation tools like Leapwork or UiPath.
+Knowledge of Chaos engineering tools such as Gremlin for reliability testing.
+Proficiency in Python libraries like PyTest or unittest.
+Familiarity with GitHub Actions for CI/CD workflows.
+
+JD 36
+Expertise in working with Protractor and Jasmine for Angular application testing.
+Experience with Sauce Labs or BrowserStack for cross-browser testing.
+Hands-on knowledge of Jenkins Pipeline as Code for automated build/test pipelines.
+Familiarity with SonarQube for code quality analysis.
+Knowledge of APM tools like Dynatrace for performance testing.
+
+JD 37
+Experience with Tosca for model-based testing.
+Proficiency in Groovy scripting for automation tasks in Jenkins or Spock.
+Knowledge of tools like Pact or WireMock for contract testing.
+Hands-on experience with Apache Kafka testing using Mock frameworks.
+Familiarity with Bitbucket for code collaboration.
+
+JD 38
+Expertise in mobile application testing with tools like TestProject or Xamarin Test Cloud.
+Experience in building and maintaining custom test frameworks.
+Proficiency in Visual Studio Code and IntelliJ for test script development.
+Knowledge of AWS Lambda testing and cloud-based deployments.
+Familiarity with Argo CD for GitOps workflows in testing environments.
+
+JD 39
+Proficiency in testing microservices with Postman and Karate Framework.
+Hands-on experience with Ansible for automation of testing environments.
+Familiarity with Kubernetes Helm Charts for application deployments.
+Advanced knowledge of Jenkins declarative pipelines for CI/CD.
+Experience with QTest or PractiTest for test case management.
+
+JD 40
+Expertise in API contract testing with Swagger and OpenAPI.
+Familiarity with the Cypress dashboard for test analytics.
+Hands-on experience with BlazeMeter for performance testing and analysis.
+Knowledge of service virtualization tools like Parasoft or MockServer.
+Exposure to BigQuery or Snowflake for data testing in analytics projects.
+
+JD 41
+Proficiency in Selenium WebDriver with TestNG or JUnit for test automation.
+Hands-on experience with GitHub for version control and CI/CD pipelines.
+Advanced knowledge of performance monitoring tools like New Relic or AppDynamics.
+Familiarity with CircleCI for CI/CD workflows.
+Experience with containerized test environments using Docker and Kubernetes.
+
+JD 42
+Expertise in automating workflows with Ansible and Jenkins pipelines.
+Strong knowledge of testing AI/ML models with libraries like TensorFlow Test or PyTorch Test.
+Familiarity with testing cloud-native apps on AWS or GCP using Terraform.
+Experience in A/B testing using Optimizely or Google Optimize.
+Proficiency in testing serverless architectures on AWS Lambda or Azure Functions.
+
+JD 43
+Proficiency in UI automation using Cypress, Puppeteer, or Playwright.
+Experience with service mesh testing using Istio or Linkerd.
+Knowledge of mocking and stubbing services using WireMock or Mockito.
+Hands-on experience with Jenkins Blue Ocean for test visualization.
+Familiarity with ML-based test tools like Test.ai for smarter testing workflows.
+
+JD 44
+Strong experience in API testing with Postman and Newman CLI.
+Expertise in using Appium for mobile automation, including hybrid apps.
+Knowledge of Azure Monitor for performance and reliability testing.
+Hands-on experience with Cucumber and Gherkin for BDD frameworks.
+Proficiency in Chaos Monkey for resilience testing of distributed systems.
+
+JD 45
+Familiarity with OpenTelemetry for distributed tracing in testing.
+Hands-on experience with PactFlow for advanced contract testing.
+Expertise in data testing with Hadoop tools like Hive and Pig.
+Knowledge of TestProject for low-code/no-code automation.
+Advanced scripting skills for Jenkins Pipeline as Code using Groovy.
+
+JD 46
+Experience in automating deployment pipelines using Spinnaker.
+Proficiency in testing Big Data workflows with Apache Spark or Flink.
+Hands-on experience with K6 or Locust for performance testing.
+Knowledge of Selenium IDE for rapid prototyping of test cases.
+Familiarity with logging tools like Fluentd for log-based validation.
+
+JD 47
+Expertise in shift-left testing strategies using tools like SonarQube and Checkmarx.
+Hands-on experience with Terraform Cloud for automated infrastructure provisioning.
+Proficiency in designing test frameworks with Mocha or Chai for JavaScript.
+Knowledge of contract testing using Dredd or Hoverfly.
+Familiarity with Kubernetes-native testing tools like Kubetest or Chaos Mesh.
+
+JD 48
+Proficiency in using Python's Robot Framework for scalable test automation.
+Expertise in testing network protocols with tools like Wireshark and Scapy.
+Experience in testing message queues like RabbitMQ, ActiveMQ, and Kafka.
+Hands-on experience with Sauce Labs or BrowserStack for cross-browser validation.
+Familiarity with Vault and Keycloak for security testing.
+
+JD 49
+Knowledge of version-controlled infrastructure testing with Inspec.
+Hands-on experience with SonarLint for static code analysis.
+Familiarity with GCP-specific tools like Google Cloud Operations Suite for reliability testing.
+Expertise in testing API gateways like Kong or Apigee.
+Experience with Zapier for automating repetitive testing workflows.
+
+JD 50
+Advanced understanding of testing IoT devices with MQTT and CoAP.
+Proficiency in RPA tools like Blue Prism or Automation Anywhere.
+Experience with TestNG data providers for dynamic test case generation.
+Familiarity with graph database testing using Neo4j or ArangoDB.
+Hands-on knowledge of container runtime testing tools like Sysdig.
+
+JD 51
+Expertise in cloud security testing using tools like CloudSploit or Dome9.
+Familiarity with serverless frameworks like Claudia.js for testing workflows.
+Proficiency in static and dynamic analysis tools like Veracode or Fortify.
+Hands-on experience with Pact for API contract validations.
+Strong knowledge of test automation with Eggplant Functional.
+
+JD 52
+Proficiency in BDD-driven automation using Serenity BDD.
+Experience in analyzing test coverage using JaCoCo or Clover.
+Familiarity with defect tracking tools like Bugzilla or Jira.
+Hands-on knowledge of database schema validations using Liquibase.
+Expertise in parallel testing strategies using Selenium Grid or Cypress.
+
+JD 53
+Advanced scripting for custom automation solutions with Shell, Perl, or Python.
+Experience with Honeycomb for observability and testing of complex systems.
+Hands-on knowledge of system-level testing with tools like Nagios or Zabbix.
+Familiarity with API rate-limiting tests using custom load scripts.
+Proficiency in visual regression testing tools like Percy or Applitools.
+
+JD 54
+Strong experience in disaster recovery and failover testing strategies.
+Familiarity with Fuzz testing tools like AFL or Peach Fuzzer.
+Knowledge of testing 5G networks and telecommunications protocols.
+Hands-on expertise with Cypress Component Testing for React and Vue apps.
+Experience in synthetic monitoring for uptime and performance validation.
+
+JD 55
+Proficiency in load testing tools for databases, such as HammerDB or YCSB.
+Experience in building automated workflows for CI/CD with tools like GitLab CI.
+Familiarity with security automation tools like HashiCorp Sentinel.
+Expertise in using Jaeger for distributed system testing and tracing.
+Hands-on experience with Selenium Grid for cloud-based automation environments.
+
+JD 56
+Advanced knowledge of testing blockchain applications using tools like Ganache or Truffle.
+Expertise in continuous testing methodologies with Harness or Xray.
+Proficiency in automating microservices testing using Pact or Spring Cloud Contract.
+Experience with API testing using Karate DSL for complex workflows.
+Familiarity with AI-powered testing platforms like Functionize or Testim.
+
+JD 57
+Hands-on experience in automating ETL workflows using Apache Nifi or Talend.
+Expertise in testing container orchestration systems like OpenShift.
+Knowledge of database performance testing with SolarWinds DPA or Oracle AWR.
+Experience with Chaos testing tools like LitmusChaos for Kubernetes.
+Proficiency in REST and GraphQL API testing using Postman or Insomnia.
+
+JD 58
+Advanced scripting skills for performance testing using Gatling or JMeter.
+Familiarity with container security testing tools like Aqua Security or Falco.
+Expertise in integrating test automation with CI/CD pipelines using Bamboo or Jenkins.
+Experience in automating compliance checks with OPA (Open Policy Agent).
+Knowledge of using cloud-based device farms like AWS Device Farm or Firebase Test Lab.
+
+JD 59
+Proficiency in testing serverless architectures on GCP with Cloud Functions.
+Experience with SaaS product testing frameworks, including SaaS-specific SLAs.
+Expertise in exploratory testing using Rapid Software Testing (RST) techniques.
+Knowledge of NoSQL database testing strategies with MongoDB or Cassandra.
+Hands-on experience with mobile testing tools like Espresso for Android or XCUITest for iOS.
+
+JD 60
+Strong understanding of data encryption and security validation in automated workflows.
+Familiarity with robotic process automation (RPA) testing using UiPath Test Suite.
+Expertise in end-to-end test automation for Progressive Web Apps (PWAs).
+Hands-on experience with simulation tools like Packet Tracer for network testing.
+Knowledge of advanced observability practices using tools like Splunk or Grafana.
+
+JD 61
+Proficiency in multi-cloud environment testing with HashiCorp Terraform or Pulumi.
+Expertise in testing distributed event-driven systems with Kafka Streams or Apache Pulsar.
+Knowledge of penetration testing automation tools like Metasploit or Burp Suite.
+Hands-on experience with creating test containers using Podman or Buildah.
+Familiarity with monitoring and testing cloud-native applications using Datadog.
